@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Harry Potter",
+        "imageUrl": "https://4.imimg.com/data4/VO/DP/MY-3816229/harry-potter-and-the-cursed-child-parts-i-500x500.jpg",
+        "price": "14",
+        "description": "Põnevad seiklused.",
+        "id": "0.8213073199300939"
+    },
+    {
+        "id": "0.8213073199300931",
+        "title": "Harry Potter",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10nHiU4ABbVIxq3rLUOc9FQqahtLpJ-Vv9A&usqp=CAU",
+        "price": "24",
+        "description": "Hea, väha hea."
+    },
+    {
+        "title": "Harry Potter",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIwpqKeVclBa77oJKNa2s7KRN-xqSyDz-jQ&usqp=CAU",
+        "price": "22",
+        "description": "Uus ja põnev",
+        "id": "0.8213073199300934"
+    }
+]
